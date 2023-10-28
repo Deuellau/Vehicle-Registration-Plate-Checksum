@@ -17,7 +17,7 @@ The script defines a function `CheckSum(plate) -> str` that takes a vehicle plat
 
 2. It separates the prefix (letters) and the numeric portion of the plate.
 
-3. It calculates the checksum based on the provided plate using a specific [algorithm](https://en.wikipedia.org/wiki/Vehicle_registration_plates_of_Singapore#Checksum).
+3. It calculates the checksum based on the provided plate using a specific [algorithm](https://singaporecarplate.com).
 
 4. It compares the calculated checksum to the provided checksum.
 
